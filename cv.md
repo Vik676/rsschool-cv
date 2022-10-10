@@ -1,4 +1,3 @@
-init: creating cv
 ---
 layout: cv
 title: Viktoryia Lebedzeva's CV
