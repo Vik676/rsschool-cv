@@ -1,9 +1,10 @@
 body {
   background-color: lightblue;
+  justify-content: center;
 }
 
 h3 {
-  color: navy;
+  color: pink;
   margin-left: 20px;
 }
 
